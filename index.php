@@ -154,8 +154,8 @@ else {
   }
 
   // Сохранение в базу данных.
-  $user = 'u47496';
-  $pass = '3730253';
+  $user = 'u47495';
+  $pass = '9466229';
   $db = new PDO('mysql:host=localhost;dbname=u47496', $user, $pass, array(PDO::ATTR_PERSISTENT => true));
 
   // Подготовленный запрос. Не именованные метки.
